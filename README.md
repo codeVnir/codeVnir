@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeVnir
+- 👋 Hi, I’m @NRMT
 - 👀 I’m interested in WEB 3 .
 - 🌱 I’m currently learning Web Development and Web 3
 - 💞️ I’m looking to collaborate on ...
